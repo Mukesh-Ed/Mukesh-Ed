@@ -309,26 +309,6 @@ An **AI-powered inventory intelligence system** designed to transform raw invent
 
 ---
 
-# 📈 CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukesh-Ed&bg_color=0D1117&color=00C9FF&line=00C9FF&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mukesh-Ed&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-
-</div>
-
----
-
 # 🎯 CURRENT MISSION
 
 <div align="center">
